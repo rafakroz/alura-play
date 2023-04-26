@@ -4,12 +4,12 @@
 
 Projeto Alura-PLay
 
--
+--
 
 Criar branch:
-´´´
+```
 git checkout -b [nome da branch]
-´´´
+```
 
 Efetue as alterações, adicione o arquivo e conclua com o commit.
 
