@@ -12,7 +12,9 @@ git checkout -b [nome da branch]
 ```
 
 Efetue as alterações, adicione o arquivo e conclua com o commit.
-
+```
+git commit -m "mensagem"
+```
 
 Envie os arquivo para o repositório:
 ```
